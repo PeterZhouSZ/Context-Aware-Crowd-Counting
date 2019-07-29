@@ -106,4 +106,4 @@ year = {2019}
 
 ## Contact
 
-For any questions regard this paper/code, please direct contact [Weizhe Liu](https://sites.google.com/view/weizheliu)
+For any questions regard this paper/code, please direct contact [Weizhe Liu](mailto:weizhe.liu@epfl.ch)
